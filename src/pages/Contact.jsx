@@ -43,7 +43,7 @@ export default function Contact() {
           <FaLinkedin size={35} color="#0e76a8" />
           <h4 style={{ marginTop: "10px" }}>LinkedIn</h4>
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/memoona-arif-795439291/"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#ccc", textDecoration: "none" }}
@@ -57,7 +57,7 @@ export default function Contact() {
           <FaGithub size={35} color="#fff" />
           <h4 style={{ marginTop: "10px" }}>GitHub</h4>
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/Maimoona-hub"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#ccc", textDecoration: "none" }}

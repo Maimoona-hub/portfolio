@@ -1,6 +1,6 @@
 import React from "react";
 import Earth from "../components/Earth";
-import maimoonaImage from "../assets/maimoona.jpeg";
+import maimoonaImage from "../assets/maimoona.jpg";
 
 export default function Home() {
   return (
@@ -39,7 +39,7 @@ export default function Home() {
         />
         <h1>Hi, I'm Maimoona Arif 👋</h1>
         <p style={{ color: "#ccc" }}>
-          A final year Information Engenering Student pursuing my Bachelor's
+          A final year Information  Engineering Student pursuing my Bachelor's
           degree at the Superior University , Lahore.
           <br />
           <br />
